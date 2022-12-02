@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Campus News</string>
+    <string name="title_home">News</string>
+    <string name="title_dashboard">Dashboard</string>
+</resources>
